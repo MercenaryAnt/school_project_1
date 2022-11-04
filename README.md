@@ -13,3 +13,19 @@
 -> Yetkili kullanıcı bilgisi: 
 tcNo: 12345678901
 şifre: 12345
+
+----------------------------------------------
+
+It is the white goods program, which is a simple program as a project at the University.
+
+-> I did my own checks. There may still be more problems.
+
+-> There is also a License Program in the files.
+
+-> If you run the program and you need to complete the required license to enjoy the main program.
+
+-> sql file is available
+
+-> Authorized user information: 
+tcNo: 12345678901
+password: 12345
