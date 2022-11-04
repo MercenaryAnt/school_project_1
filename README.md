@@ -14,6 +14,8 @@
 tcNo: 12345678901
 şifre: 12345
 
+Bana ulaşmak için : boraberkuzun@hotmail.com
+
 ----------------------------------------------
 
 It is the white goods program, which is a simple program as a project at the University.
@@ -29,3 +31,5 @@ It is the white goods program, which is a simple program as a project at the Uni
 -> Authorized user information: 
 tcNo: 12345678901
 password: 12345
+
+to reach me : boraberkuzun@hotmail.com
